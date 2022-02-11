@@ -10,8 +10,13 @@ Parasites are known to change the host microbiome in controlled systems, and we 
 ## Files
 
 AlbigulaPaper16SScript.R -- R script containing 16S sequence processing pipeline, from raw sequences to diversity analyses.
+
 AlbigulaPaperPsiteFunctionScript.R -- Script containing code to perform parasite prevalence and model testing for association between parasitism and digestive functional metrics. 
+
 AllSampsAvg_Metadat.csv -- Metadata associated with 16S sequence processing
+
 OTUtabps3.csv -- OTU table for phyloseq object ps3, which is the basis of further subsetting and analysis
+
 Taxatabps3.csv -- Taxa table for phyloseq object ps3
+
 Psite Prev.csv -- Summary table of parasite prevalences by sampling period
