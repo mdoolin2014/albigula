@@ -1,6 +1,7 @@
 # <i>Neotoma albigula</i> Parasite-Microbiome Study
 This repository contains R code used to process parasitism and 16S microbiome data.
 Repository is associated with publication: 
+
 Doolin, ML, Weinstein, SB, Dearing, MD. <i>In review</i>. Pinworms are associate with taxonomic but not functional differences in the gut microbiome of white-throated woodrats (<i>Neotoma albigula</i>). Journal of Parasitology. 
 Work associated with the University of Utah.
 
